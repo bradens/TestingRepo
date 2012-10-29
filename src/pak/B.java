@@ -35,4 +35,9 @@ public class B
 	{
 		this.myInt = myInt;
 	}
+
+	public void adrianMethod() {
+		int x = 0;
+		x = x+x;
+	}
 }
