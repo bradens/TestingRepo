@@ -14,8 +14,6 @@ public class A
 	
 	public String getMyString()
 	{
-		int x = 0;
-		int y = x + 6;
 		return myString;
 	}
 	
