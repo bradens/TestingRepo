@@ -4,6 +4,7 @@ public class B
 {
 	private A a;
 	private int myInt;
+	public float bFloat;
 	
 	public B(A a, int myInt)
 	{
