@@ -4,6 +4,7 @@ public class A
 {
 	private String myString;
 	private int myInt;
+	public float myFloat;
 	
 	public A(String myString, int myInt)
 	{
