@@ -3,5 +3,4 @@ TestingRepo
 
 Testing repo for Aduno
 
-Jordan and Braden smell, badly
---Adrian
+Adrian smells badly, very badly.  -- Braden 
