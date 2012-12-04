@@ -15,6 +15,8 @@ public class A
 	
 	public String getMyString()
 	{
+		// This change is for jordan
+		int x = 0;
 		return myString;
 	}
 	
