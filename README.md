@@ -1,4 +1,4 @@
-asdfsadfasdfasfuasdf
+TEST FOO
 ===========
 
 Testing repo for Aduno
